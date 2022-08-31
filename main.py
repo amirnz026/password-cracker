@@ -12,3 +12,4 @@ print(cracked_password2)
 
 # Run unit tests automatically
 main(module='test_module', exit=False)
+print('hello wqorld')

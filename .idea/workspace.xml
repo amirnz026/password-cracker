@@ -10,6 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/boilerplate-SHA-1-password-cracker" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2E6f3js9osdOVqSXoIvFdKmExNl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,7 +24,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -62,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661920757684</updated>
       <workItem from="1661920760585" duration="70000" />
-      <workItem from="1661920842347" duration="93000" />
+      <workItem from="1661920842347" duration="275000" />
     </task>
     <servers />
   </component>
